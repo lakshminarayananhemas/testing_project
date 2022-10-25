@@ -23,9 +23,15 @@ class BillingController extends Controller
         $this->crepo = $crepo;
 
     }
-    
+
     // ganagavathy github changes
     public function test(){
+        $status = "approved";
+
+        return $status;
+    }
+
+    public function test1(){
         $status = "approved";
 
         return $status;
