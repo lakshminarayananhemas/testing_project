@@ -39,6 +39,10 @@ class BillingController extends Controller
     // ganagavathy github changes
 
 
+    // naratyanan conttoller
+    // naratyanan conttoller end
+
+
     // ganaga
 
     public function get_salesman_by_distributor(Request $request){
